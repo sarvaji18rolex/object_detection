@@ -3,7 +3,7 @@ import sys
 import argparse
 import glob 
 import time
-
+ 
 import cv2
 import numpy as np
 from ultralytics import YOLO
