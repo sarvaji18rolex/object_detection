@@ -5,7 +5,7 @@ import glob
 import time
  
 import cv2
-import numpy as np
+import numpy as np 
 from ultralytics import YOLO
 
 
